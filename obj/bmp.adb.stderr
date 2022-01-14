@@ -1,0 +1,1 @@
+bmp.adb:6:10: warning: formal parameter "F" is not referenced [-gnatwf]
